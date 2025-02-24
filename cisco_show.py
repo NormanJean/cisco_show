@@ -6,7 +6,6 @@ print('*',f'{"CISCO":^33}','*')
 print('*',f'{"SHOW":^33}','*')
 print('*',f'{"":^33}','*')
 print('*'*37)
-print(f'{"СНПО Элерон":^37}')
 print()
 
 user = input('login: ')
